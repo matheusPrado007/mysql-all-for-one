@@ -3,5 +3,7 @@
 Nesse projeto manipulei tabelas SQL, com desafios de requisição e filtragem de dados, dentro de um ambiente docker.
 
 ## Tecnologias utilizadas
-- SQL
 - docker
+
+## Banco de dados
+- MySQL
